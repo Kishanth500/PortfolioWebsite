@@ -69,7 +69,7 @@ UI(user interface):
 4.Contact
 5.Terms & Conditions
 
-Hardware Requirement:
+HARDWARE REQUIREMENTS:
 
 • Processor
                 Any modern processor with at least 2 cores and a clock speed of 2.5GHz or higher should be sufficient. 
@@ -89,19 +89,19 @@ Hardware Requirement:
                  A fast and stable internet connection with at least 10 Mbps download and 5 Mbps upload speeds is recommended
                for uploading and accessing the website
 
-System Architecture:
+SYSTEM ARCHITECTURE:
 
 The website will be build using the HTML, CSS, Bootstrap, Hosting Gitup.
 
-Data management:
+DATA MANAGEMENT:
 
 User can easily access our web page and data’s are stored in System Database.
 
-Testing & quality assurance:
+TESTING & QUALITY ASSURANCE:
 
 The website has been tested on several device by our team and is been completly  and the datas will be secured
 
-Conclusion:
+CONCLUSION:
 
 This SRS outlines the key requirements and the features for an Portfolio website built using the HTML , CSS,
 JAVASCRIPT, PHP.
